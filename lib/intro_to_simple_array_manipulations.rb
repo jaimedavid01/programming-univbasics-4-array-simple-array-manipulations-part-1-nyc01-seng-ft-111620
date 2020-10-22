@@ -24,3 +24,6 @@ def unsing_shift(array)
   array
   element
 end
+
+def shift_with_args(array)
+  
