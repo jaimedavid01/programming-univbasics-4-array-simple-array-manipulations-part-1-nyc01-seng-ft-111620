@@ -18,3 +18,9 @@ def pop_with_args(array)
   array
   element
 end
+
+def unsing_shift(array)
+  element = array.shift 
+  array
+  element
+end
